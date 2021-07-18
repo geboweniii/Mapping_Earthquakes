@@ -1,5 +1,6 @@
 # Overview
-
+The purpose of this project is to gather earthquake GeoJSON data from the USGS API then create and explore interactive maps of earthquakes and tectonic plates.
+Earthquakes are visualized on the maps with respect to their magnitude and proximity to tectonic plates.
 
 # Results
 
